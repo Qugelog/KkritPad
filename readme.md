@@ -41,3 +41,7 @@
 
 ![VPXgXt1ApN](https://user-images.githubusercontent.com/55367086/115109657-4587a280-9fa1-11eb-9d92-5b8944baf364.gif)
 
+>Дата и время
+
+![yh8WdCaEJc](https://user-images.githubusercontent.com/55367086/115109922-d14dfe80-9fa2-11eb-9549-4b7a1aa71a54.gif)
+
