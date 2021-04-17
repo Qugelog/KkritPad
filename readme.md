@@ -32,3 +32,12 @@
 >Сохранение документа
 
 ![Save](https://user-images.githubusercontent.com/55367086/115070796-9a82d480-9f1f-11eb-9b84-b787fe9c3aec.gif)
+
+>Копировать, вставить, удалить
+
+![Lm0SeUedGX](https://user-images.githubusercontent.com/55367086/115109609-022d3400-9fa1-11eb-85c0-4befd1ed07b0.gif)
+
+>Перенос по словам и изменение шрифта
+
+![VPXgXt1ApN](https://user-images.githubusercontent.com/55367086/115109657-4587a280-9fa1-11eb-9d92-5b8944baf364.gif)
+
